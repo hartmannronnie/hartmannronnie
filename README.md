@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hartmannronnie&theme=default&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=hartmannronnie&theme=tokyonight&hide_border=true)
 
 ## Hey 👋
 
